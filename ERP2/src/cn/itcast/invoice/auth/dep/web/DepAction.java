@@ -13,7 +13,9 @@ import cn.itcast.invoice.util.base.BaseAction;
  */
 public class DepAction extends BaseAction{
 
-	/** The dm. */
+	/**
+	 * public perche' e' utilizzata anche fuori dal package
+	 *  The dm. */
 	public DepModel dm = new DepModel();
 	
 	/** The dqm. */
